@@ -12,5 +12,4 @@ function App() {
   );
 }
 
-// nvargfag
 export default App;
